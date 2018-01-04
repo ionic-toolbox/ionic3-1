@@ -6,4 +6,4 @@
 
 ## 目录
 
-- [Action Sheets](/app/pages/action-sheets)
+- [Action Sheets](/pages/action-sheets)
