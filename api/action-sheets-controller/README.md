@@ -50,8 +50,11 @@ export class MyPage {
 
 `config`
 
+
 `create(opts)`
+
 打开一个带有title，subTitle，和一个按钮数组的动作表单
+
 | 参数 | 类型 | 详细 |
 | ---------- | -----------|------------|
 | opts | `ActionSheetOptions` | 动作表单选项 |
